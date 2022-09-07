@@ -4,11 +4,11 @@ Im Isaiah Fitch and currently a Senior at Old Domionion Univestiy with a Major i
 
 Personal Stuff
 
-*I’m currently learning Unity Engine 
-*Currently working on a personal project in Unity
-*Employeed at TopGolf
-*Intrests in Video Games and Storytelling
-*Reach me via email at ftisaiah@gmail.com
+-I’m currently learning Unity Engine 
+-Currently working on a personal project in Unity
+-Employeed at TopGolf
+-Intrests in Video Games and Storytelling
+-Reach me via ftisaiah@gmail.com
 
 
 <!-- 
