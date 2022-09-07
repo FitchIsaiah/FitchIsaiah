@@ -4,7 +4,7 @@ Im Isaiah Fitch and currently a Senior at Old Domionion Univestiy with a Major i
 
 Personal Stuff
 
-![alt text]http://www.reddit.com/r/gifs/comments/3a57nb/when_suddenly_lost_wifi/
+![alt text](http://www.reddit.com/r/gifs/comments/3a57nb/when_suddenly_lost_wifi/)
 
 
 - 🌱 I’m currently learning Unity Engine 
