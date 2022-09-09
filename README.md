@@ -1,11 +1,8 @@
 ### Hi there 👋
 
-Im Isaiah Fitch and currently a Senior at Old Domionion Univestiy with a Major in Game Design and TV/Movie Production. MOst of the time if im not working on a project im usually relaxing either playing games with some of my friends or continue to progress my art skills. Currently my favrotite games are Hollow Knight, Overwatch and sometimes horror game my friends are hooked on the time. 
+Im Isaiah Fitch and currently a Senior at Old Domionion Univestiy with a Major in Game Design and TV/Movie Production. Most of the time if im not working on a project im usually relaxing either playing games with some of my friends or continue to progress my art skills. Currently my favrotite games are Hollow Knight, Overwatch and sometimes horror game my friends are hooked on the time. 
 
 Personal Stuff
-
-
-
 
 - 🌱 I’m currently learning Unity Engine 
 - 🔭 Currently working on a personal project in Unity
