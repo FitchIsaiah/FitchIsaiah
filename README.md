@@ -4,8 +4,8 @@ Im Isaiah Fitch, I graduated from Old Domionion Univestiy with a major in Game D
 
 Personal Stuff
 
-- 🌱 I’m currently learning Unity Engine 
-- 🔭 Currently working on a personal project in Unity
+- 🌱 I’m currently learning Unity, Unreal & Godot Engine
+- 🔭 Currently working on a personal project in Godot
 - ✨ Employeed at CACI
 - ⚡ Intrests in Video Games and Storytelling
 - 📫 Reach me via ftisaiah@gmail.com
